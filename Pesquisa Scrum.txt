@@ -22,7 +22,7 @@ E, basicamente, uma reunião diária, que deve durar até 15 minutos. Essa conve
 
 -Sprint Review- O que é Sprint review?
 
- O principal objetivo da Sprint Review é validar as entregas da equipe e verificar se os critérios estabelecidos no planejamento foram executados. É o momento de coletar os feedbacks do que a equipe construiu;
+ O principal objetivo da Sprint Review é validar as entregas da equipe e verificar se os critérios estabelecidos no planejamento foram executados.É o momento de coletar os feedbacks do que a equipe construiu;
 
 ¬-Sprint Retrospective- O que é Sprint restrospective? (Retrospectiva de Sprint)
 
@@ -30,7 +30,7 @@ Esta é uma reunião normalmente de no máximo três horas para sprints de um m�
 
 -Scrum Master-  O que é Scrum máster?
 
- O Scrum Master é o responsável por garantir que o Time Scrum se oriente pelos valores e práticas do Scrum. O Scrum Master protege o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint;
+ O Scrum Master é o responsável por garantir que o Time Scrum se oriente pelos valores e práticas do Scrum.O Scrum Master protege o time, certificando-se de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint;
 
 ¬-Product Owner- O que é product Owner?
 
@@ -38,6 +38,6 @@ Esta é uma reunião normalmente de no máximo três horas para sprints de um m�
 
 
 
-
+oi
     Lais Rebeca de Lima.
 
